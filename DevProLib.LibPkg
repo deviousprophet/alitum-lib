@@ -440,7 +440,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SQSQOGQM
 
 [Document24]
-DocumentPath=ANT_IFA_2_4GHZ_50R.PcbLib
+DocumentPath=ANTENNA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -457,7 +457,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PKHSYHCI
 
 [Document25]
-DocumentPath=ANT_IFA_2_4GHZ_50R.SchLib
+DocumentPath=ANTENNA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
