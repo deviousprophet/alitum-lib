@@ -661,6 +661,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ZCXPIJTE
 
 [Document37]
+DocumentPath=ES8311.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EEAGYAOM
+
+[Document38]
 DocumentPath=ES8311.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGCVITTV
 
-[Document38]
+[Document39]
 DocumentPath=ES7210.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIUDWROI
 
-[Document39]
+[Document40]
 DocumentPath=ZTS6117.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWCGHDXV
 
-[Document40]
+[Document41]
 DocumentPath=ZTS6117.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
