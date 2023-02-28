@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BSQQDQPV
+DocumentUniqueId=NEMIHXOF
 
 [Document2]
 DocumentPath=COMMON.SchLib
@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XJDFVVGN
+DocumentUniqueId=SFPYHPUP
 
 [Document4]
 DocumentPath=CONNECTORS.SchLib
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DGZNHITI
+DocumentUniqueId=WWQVECQU
 
 [Document6]
 DocumentPath=ESP32.SchLib
@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HFUWVQCU
+DocumentUniqueId=EBTDJJOI
 
 [Document8]
 DocumentPath=ETHERNET.SchLib
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JOSIFVTC
+DocumentUniqueId=WAYUGWIU
 
 [Document17]
 DocumentPath=W25Q256JVEIQ.SchLib
@@ -386,7 +386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PKHSYHCI
+DocumentUniqueId=XEXLUNXX
 
 [Document21]
 DocumentPath=ANTENNA.SchLib
@@ -556,7 +556,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HGMWYLOM
+DocumentUniqueId=OCJOCWIT
 
 [Document31]
 DocumentPath=TX4138.SchLib
@@ -695,6 +695,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XGCVITTV
 
 [Document39]
+DocumentPath=ES7210.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMANSENN
+
+[Document40]
 DocumentPath=ES7210.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIUDWROI
 
-[Document40]
+[Document41]
 DocumentPath=ZTS6117.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWCGHDXV
 
-[Document41]
+[Document42]
 DocumentPath=ZTS6117.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
