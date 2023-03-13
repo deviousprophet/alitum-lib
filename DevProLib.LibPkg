@@ -440,7 +440,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QUDJVLIQ
 
 [Document24]
-DocumentPath=LSM6DS3.PcbLib
+DocumentPath=LSM6DSO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -457,7 +457,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MITFCORZ
 
 [Document25]
-DocumentPath=LSM6DS3.SchLib
+DocumentPath=LSM6DSO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -491,7 +491,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=LPS22HB.PcbLib
+DocumentPath=LPS22HH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -508,7 +508,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LDCEEWYW
 
 [Document28]
-DocumentPath=LPS22HB.SchLib
+DocumentPath=LPS22HH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
